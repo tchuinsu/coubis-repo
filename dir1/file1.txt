@@ -1,2 +1,5 @@
 This is file1 in dir1
+<<<<<<< HEAD
 
+=======
+>>>>>>> 067dff60daca0db7be578d6486918b4db0e42825
