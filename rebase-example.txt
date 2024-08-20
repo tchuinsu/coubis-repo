@@ -1,1 +1,8 @@
+ HEAD
 Main branch modification
+
+Initial content
+ 8d3f19d (Add rebase-example.txt)
+Main branch modification
+Feature branch modification
+
