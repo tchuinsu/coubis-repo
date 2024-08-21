@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Feature 1 changes
 
@@ -14,3 +15,7 @@ Feature 4 changes
 =======
 Feature 11 changes
 >>>>>>> feature-branch-1
+=======
+# coubis-repo
+Feature 2 changes
+>>>>>>> feature-branch-2
