@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Feature 1 changes
 
@@ -10,3 +11,6 @@ Feature 3 changes
 
 Feature 4 changes
  feature-branch-4
+=======
+Feature 11 changes
+>>>>>>> feature-branch-1
